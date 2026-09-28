@@ -106,6 +106,12 @@ The trained model was saved using Joblib and integrated into the Streamlit dashb
 
 ## Dashboard
 
+![Dashboard Overview](dashboard/screenshots/dashboard_overview.png)
+
+![Customer Segmentation](dashboard/screenshots/customer_segmentation.png)
+
+![Customer Churn Overview](dashboard/screenshots/customer_churn.png)
+
 The interactive Streamlit dashboard provides:
 
 - Total customer count
